@@ -1,0 +1,9 @@
+Product_ID,Category,Sub_Category,Product_Name,Unit_Price,Unit_Cost
+P-101,Computing,Laptops,AeroBook Pro 15,68000,52000
+P-102,Computing,Laptops,ZenSlim Ultrabook 14,58000,44000
+P-103,Computing,Tablets,SlateTab 11 WiFi,28000,20000
+P-104,Mobile,Smartphones,NovaPhone X Pro,36000,25000
+P-105,Mobile,Smartphones,NovaPhone Lite,21000,14500
+P-106,Mobile,Wearables,PulseWatch S3,8500,5000
+P-107,Accessories,Audio,SonicBuds ANC,2500,1100
+P-108,Accessories,Peripherals,ErgoMech Keyboard,4200,2200
